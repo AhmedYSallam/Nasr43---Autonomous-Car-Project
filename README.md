@@ -6,7 +6,7 @@ Group: Emb Nasr 43
 Project Members: Ahmed Yasser Amin Sallam  
 Email: ahmedys2010@gmail.com  
 
-Link to Google Drive containing Presentation, videos, and codes: https://drive.google.com/drive/u/0/folders/1cX76Mk8F4DA34rFmufAe2D3yBeOVyJXC  
+Link to Google Drive containing Presentation, videos, and codes: https://drive.google.com/drive/folders/1cX76Mk8F4DA34rFmufAe2D3yBeOVyJXC?usp=sharing  
 
 Project Description:  The autonomous car avoids collision with its surroundings by using a sensor to stop it at a certain distance, then a servo motor attached to the sensor will rotate it 180 degrees to check left and right sides for which position to move to. If the left side distance is greater than right side distance then the robot will turn left and move at the direction, and vice versa. These actions continues indefinitely. Attached to the robot is a 16x2 LCD that consistently tells the direction the robot is currently heading and the data currently obtained from the Ultrasonic sensor.  
 List of components:  
