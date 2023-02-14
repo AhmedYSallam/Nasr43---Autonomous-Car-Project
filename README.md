@@ -6,6 +6,6 @@ Group: Emb Nasr 43
 Project Members: Ahmed Yasser Amin Sallam  
 Email: ahmedys2010@gmail.com  
 
-Link to Google Drive containing Presentation, videos, code and other files: https://drive.google.com/drive/u/0/folders/1cX76Mk8F4DA34rFmufAe2D3yBeOVyJXC  
+Link to Google Drive containing Presentation, videos, and codes: https://drive.google.com/drive/u/0/folders/1cX76Mk8F4DA34rFmufAe2D3yBeOVyJXC  
 
 Project Description:  
